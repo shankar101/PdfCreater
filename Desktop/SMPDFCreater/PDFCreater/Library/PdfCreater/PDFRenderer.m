@@ -3,7 +3,7 @@
 //  PDFRenderer
 //
 //  Created by Shankar Mallick on 21/3/16.
-//  Copyright (c) 2016 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2016 Shankar_iOS. All rights reserved.
 //
 
 #import "PDFRenderer.h"
