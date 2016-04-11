@@ -3,7 +3,7 @@
 //  PDFCreater
 //
 //  Created by Shankar Mallick on 11/04/16.
-//  Copyright © 2016 Customer First. All rights reserved.
+//  Copyright © 2016 Shankar_iOS. All rights reserved.
 //
 
 #import "ViewController.h"
